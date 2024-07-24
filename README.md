@@ -4,10 +4,6 @@ This repository contains projects developed using MATLAB during the Bachelor's i
 
 **CONTENTS**
 
-**Bachelor**
-
-1.
-
 **Master**
 
 1. Numerical Methods for Partial Differential Equations (MetodosNumericos)
