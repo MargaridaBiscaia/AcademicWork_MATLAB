@@ -1,10 +1,8 @@
 # AcademicWork_MATLAB
 
-This repository contains projects developed using MATLAB during the Bachelor's in Mathematics and Master's in Mathematics - Statistics, Optimization, and Financial Mathematics. Some of these projects were conducted in groups of two or three.
+This repository contains projects developed using MATLAB during the Master's in Mathematics - Statistics, Optimization, and Financial Mathematics. Some of these projects were conducted in groups of two or three.
 
 **CONTENTS**
-
-**Master**
 
 1. Numerical Methods for Partial Differential Equations (MetodosNumericos)
 
